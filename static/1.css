@@ -1,0 +1,53 @@
+body {
+    font-family: Montserrat, serif;
+    font-size: medium;
+    background-color: lavenderblush;
+    margin: 5% 10%;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: blueviolet;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding-left: 9%;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: lavenderblush;
+    text-align: center;
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+.navbar a:hover {
+    background: #ff3ef7;
+    color: #101050;
+}
+
+nav {
+    margin-left: -10%;
+}
+
+.h {
+    color: darkviolet;
+    font-size: 200%;
+}
+table {
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+p {
+    color: black;
+    font-size: 20px;
+}
+#p1 {
+    color: gray;
+    font-size: 15px;
+}
